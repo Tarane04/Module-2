@@ -1,3 +1,4 @@
+
 # Exp.No:2e  
 ## SEB - COMPUTING POWER
 
@@ -22,7 +23,17 @@ To write a Python program to compute the power of a given number using an approp
 ### PROGRAM
 
 ```
+#Reg.no 212222060271
+#Name TARANE G
+
+x=int(input()) 
+y=int(input()) 
+z=pow(x,y)  
+print(z) 
 ```
 ### OUTPUT
 
+![Screenshot 2025-04-30 094127](https://github.com/user-attachments/assets/94bb2b6d-60b5-44e1-baee-aa89a1d3e803)
+
 ### RESULT
+Thus,the given python program is implemented and executed sucessfully.
